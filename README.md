@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p> My name is Meriely, I'm from Brazil and currently finishing my graduation in eng. of computing. </p>
+<p> My name is Meriely, I'm Brazilian and I'm finishing my degree in Computer Engineering. </p>
 <p> I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
 <div align="center">
   <a href="https://github.com/merielylima">
@@ -23,9 +23,8 @@
  
   <a href="https://instagram.com/merielylima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/meriely-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://codepen.io/merielylima" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://codepen.io/merielylima" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
      <a href = "mailto:meriellylima96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
