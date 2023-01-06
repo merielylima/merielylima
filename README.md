@@ -1,7 +1,6 @@
 ### Hi there. My name is Meriely 👋
 
-<p> I'm Brazilian and I'm finishing my degree in Computer Engineering. </p>
-<p> I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
+<p> I'm Brazilian and I'm finishing my degree in Computer Engineering. I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
 <div align="center">
   <a href="https://github.com/merielylima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=merielylima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
