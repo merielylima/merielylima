@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there. My name is Meriely 👋
 
-<p> My name is Meriely, I'm Brazilian and I'm finishing my degree in Computer Engineering. </p>
+<p> I'm Brazilian and I'm finishing my degree in Computer Engineering. </p>
 <p> I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
 <div align="center">
   <a href="https://github.com/merielylima">
