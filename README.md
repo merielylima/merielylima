@@ -3,7 +3,6 @@
 <p> I'm Brazilian and I'm finishing my degree in Computer Engineering. I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
 <div style="display: flex " align="center" >
  <img  height="180"  width="450" src="https://github-readme-stats.vercel.app/api?username=merielylima&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
- <img height="180"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merielylima&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <br>
 <div style="display: block " <br>
@@ -13,7 +12,6 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
- <!-- <img align="right" alt="meriely-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">-->
 </div>
   
   ##
