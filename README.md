@@ -1,10 +1,14 @@
 ### Hi there. My name is Meriely 👋
 
 <p> I'm Brazilian and I'm finishing my degree in Computer Engineering. I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
-
+<div style="display: flex " align="center" >
+ <a href="https://github.com/merielylima">
+ <img  height="180"  width="450" src="https://github-readme-stats.vercel.app/api?username=merielylima&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+ <img height="180"  width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merielylima&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+<br>
 <div style="display: block " <br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
   <img align="center" alt="icon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
