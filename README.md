@@ -1,6 +1,6 @@
 ### Hi there. My name is Meriely 👋
 
-<p> I'm Brazilian and I'm finishing my degree in Computer Engineering. I'm passionate about creating and helping people. I'm currently looking for a job opportunity that will give me that kind of growth, to improve my skills and stimulate my creativity.</p>
+<p>I'm a Brazilian Computer Engineering student passionate about creating meaningful experiences through technology. I work as a UX/UI designer and am a front-end enthusiast who loves designing and bringing ideas to life through code.</p>
 <div style="display: flex " align="center" >
  <img  height="180"  width="450" src="https://github-readme-stats.vercel.app/api?username=merielylima&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
